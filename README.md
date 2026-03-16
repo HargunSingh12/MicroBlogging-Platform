@@ -1,6 +1,6 @@
-# Twitter Clone
+# MicroBlogging Platofrm
 
-A mini Twitter-like social app with user authentication, tweet posting, and dynamic timeline generation using MongoDB aggregation.
+A social media app with user authentication, blog posting, and dynamic timeline generation using MongoDB aggregation.
 
 ## Features
 - User registration and login
