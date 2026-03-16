@@ -15,5 +15,5 @@ A social media app with user authentication, blog posting, and dynamic timeline 
 - Node.js
 
 ## Notes
-- Aggregation used to efficiently fetch and join tweets with user data
+- Aggregation used to efficiently fetch and join blogs with user data
 - Authentication handled using JWT tokens
