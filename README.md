@@ -4,7 +4,7 @@ A social media app with user authentication, blog posting, and dynamic timeline 
 
 ## Features
 - User registration and login
-- Tweet creation and like functionality
+- Blog creation and like functionality
 - Profile view and timeline feed
 - Efficient querying using MongoDB aggregation
 
